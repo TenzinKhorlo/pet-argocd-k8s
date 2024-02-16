@@ -15,5 +15,5 @@ spec:
         app: pet-deploy
     spec:
       containers:
-      - image: 19bce2599/tenzin:19
+      - image: 19bce2599/tenzin:7
         name: pet
